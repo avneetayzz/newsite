@@ -1,0 +1,78 @@
+body {
+  background-color: #F7DAD9;
+  margin: 0px;
+  text-align: center;
+}
+
+h1 {
+  color: #865439;
+  font-family: Brush Script MT, Brush Script Std, cursive;
+  font-size: 100px;
+  margin-top: 1px;
+  margin-bottom: 0;
+}
+
+h2{
+  color: #B05B3B;
+  font-family: Brush Script MT, Brush Script Std, cursive;
+  font-size: 60px;
+  margin-bottom: 1px;
+}
+
+h3{
+  color: #B05B3B;
+  font-family: cursive;
+  font-size: 25px;
+}
+p {
+  color: #865439;
+  font-family: fantasy cursive;
+  font-size: 20px;
+  margin: 0;
+  padding-bottom: 30px;
+}
+
+hr{
+  border: dotted;
+  width: 50px;
+  border-top: 20px;
+  border-width: 8px;
+  border-color:  #865439;
+}
+.cloud {
+  height: 350px;
+  width: 350px;
+}
+
+.top {
+  position: absolute;
+  left: 0%;
+  top: 40px;
+}
+
+.bottom {
+  position: absolute;
+  right: 0%;
+  top: 200px;
+}
+
+.mountain {
+  position: absolute;
+  left: 0px;
+  top: 150px;
+  height: 1000px;
+  width: 100%;
+}
+
+.man{
+  height: 300px;
+  width: 300px;
+}
+.alpha {
+  padding-top: 200px;
+  height: 650px;
+}
+
+.bravo {}
+
+.Charlie {}
